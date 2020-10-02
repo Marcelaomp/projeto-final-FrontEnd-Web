@@ -1,0 +1,27 @@
+h1{margin:25px;}
+h2{margin: 50px 0 10px 0;}
+
+#imagemGinasio{width:100%}
+
+.quemSomos{margin-top: 30px;}
+
+#imagemLoja{float: left; margin: 20px 20px 20px 0}
+#imagemGinasio1 {float: right; margin: 20px 0px 20px 20px;}
+
+.primeiro , .segundo{overflow: hidden;}
+
+.primeiro p{margin-top: 70px; font-size: 18px;}
+.segundo p{margin-top: 100px;font-size: 18px;}
+
+/* imgs */
+.socios h2{margin: 40px 0 80px 0;}
+
+.socios ul, .socios a {text-align: center;}
+.socios li { display: inline-block; margin: 10px 50px 0 10px; transition:all 50ms linear;}
+/* .socios a {text-decoration: none; color: black;} */
+
+.imgHoverZoom { height: 200px; overflow: hidden; border-radius: 100px; width: 200px;} /*imagem de 200x200 e borda 100 para nossos rostinhhos*/
+.imgHoverZoomOut { transition: transform 1s, filter 2s ease-in-out; transform: scale(1);} 
+.imgHoverZoomOut:hover { transform: scale(1.2);}
+
+figcaption{ margin-top: 20px; font-size: 20px;}

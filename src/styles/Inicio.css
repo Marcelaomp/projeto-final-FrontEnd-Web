@@ -1,0 +1,32 @@
+p{
+    text-align:justify;
+}
+
+#descricao{
+    margin: 3%;
+}
+
+#imgCard{
+    width: 100%;
+}
+
+#cardButton{
+    margin-top: 8px;
+}
+#card{ 
+    background-color: #ddddda;
+    border-radius: 15px;
+    overflow: hidden;
+    margin:20px 0;
+    transition:all 50ms linear;
+}
+
+#card:hover {transform: scale(1.1);}
+
+.botao{
+    color: white;
+}
+.botao:hover{
+    text-decoration: none ;
+    color: white;
+}

@@ -1,0 +1,58 @@
+#hospedagem{
+   margin: 40px;
+}
+.carousel-showmanymoveone .carousel-control {
+   width: 4%;
+   background-image: none;
+}
+
+.carousel-control.left {
+   margin-left: 0;
+}
+
+.carousel-showmanymoveone .carousel-control.right {
+   margin-right: 0;
+}
+
+.carousel-showmanymoveone .cloneditem-1,
+.carousel-showmanymoveone .cloneditem-2,
+.carousel-showmanymoveone .cloneditem-3 {
+   display: none;
+}
+
+#carrossel {
+   color: orange;
+   outline-color:black;
+   opacity: 1;
+   /* text-shadow: 2px 2px #000; */
+}
+
+#carrossel .carousel-control-next .carousel-control-prev-icon .sr-only{
+   color: orange;
+   outline-color:black;
+   opacity: 1;
+   /* text-shadow: -2px 2px #000; */
+}
+
+.carousel-inner figcaption{
+   color: black;
+   font-size:16px;
+}
+
+.carousel-inner a:hover{
+   text-decoration:none;
+}
+
+.carousel .item .col-xs-12 {
+   padding: 0;
+}
+
+.carousel-control-prev:focus{
+   box-shadow: none !important;
+}
+.carousel-control-next:focus{
+   box-shadow: none !important;
+}
+.carousel-control-prev span {
+   color: blue;
+}

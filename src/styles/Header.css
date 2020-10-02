@@ -1,0 +1,27 @@
+div{
+    margin-top: 0;
+}
+h1{
+    color: black;
+    float:right;
+}
+#RowTitulo{
+    margin-top: 72px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#Navbar{
+    background-color: white;
+    padding: 10px;
+}
+.itemNav{    
+    padding: 0 20px;   
+}
+#inicioNav, #quemSomosNav, #hospedagemNav, #contatosNav{
+    color: black; 
+    font-size: 20px;
+}
+#inicioNav:hover, #quemSomosNav:hover, #hospedagemNav:hover, #contatosNav:hover{
+    text-decoration: none;
+    color: #6f6f6f;
+}

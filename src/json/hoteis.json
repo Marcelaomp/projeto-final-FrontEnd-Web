@@ -1,0 +1,32 @@
+{
+    "hoteis" : [ 
+        {
+                "id": 1,
+                "nome": "Hotel Alpina",
+                "imagem": "imagens/img-hospedages/Alpina.jpg",
+                "alt": "Foto: Pedra da Tartaruga",
+                "site":"https://www.sescrio.org.br/hoteis-sesc/hotel-sesc-alpina/"
+            },
+        {
+                "id": 2,
+                "nome": "Hotel Intercity",
+                "imagem": "imagens/img-hospedages/Intercity.jpg",
+                "alt": "Foto: Torres de Bonsucesso",
+                "site":"https://www.intercityhoteis.com.br/"
+            },
+        {
+                "id": 3,
+                "nome": "Hotel Recanto da Serra",
+                "imagem": "imagens/img-hospedages/recanto.jpg",
+                "alt": "Foto: Cachoeira da Macumba",
+                "site":"http://www.recantodaserrateresopolis.com.br/"
+            },
+        {
+                "id": 4,
+                "nome": "Hotel Urikana",
+                "imagem": "imagens/img-hospedages/urikana.jpg",
+                "alt": "Foto: Dedo de Deus",
+                "site":"http://urikana.com.br/"
+            }
+        ]
+    }

@@ -1,0 +1,109 @@
+p{
+    text-indent: 40px;
+    text-align: justify;
+    font-size: 18px;
+}
+/*botão*/
+#botao{
+    font-size: 20px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+/*cachoeira*/
+
+#tituloCachoeira{
+        text-align: center;
+        color: black;
+    }
+    #tituloCachoeira{
+        text-align: center;
+        color: black;
+    }
+    #imagemCachoeira1{
+        margin-bottom: 20px;
+    }
+
+    /*dedo de deus*/
+
+#tituloDedo{
+    margin-bottom: 50px;
+}
+#imagemDedo1{
+    margin: 20px 20px 20px 0;
+    float: left;
+}
+
+#imagemDedo2{
+     float: right;
+     margin: 20px 20px 0px 20px;
+}
+
+/* escalavrado*/
+
+#tituloEscalavrado{
+    text-align: center;
+    color: black;
+}
+#imagemeEscalavrado1, #imagemeEscalavrado3{
+    margin: 20px 20px 20px 0px;
+     float: left 
+ }
+
+#imagemeEscalavrado2{
+    margin: 20px 0 20px 20px;
+     float: right 
+}
+
+/* sino */
+
+#tituloSino{
+    margin-bottom: 50px;
+}
+#imagemSino1{
+    margin: 20px 20px 20px 0;
+     float: left;
+ }
+#imagemSino2{
+    margin: 20px 0 20px 20px;
+    float: right;
+ }
+
+/*Tartaruga*/
+#tituloTartaruga{
+    text-align: center;
+    color: black;
+    margin-bottom: 30px;
+}
+#imagemTartaruga1{
+    margin: 0 0 20px 0;
+    text-align: center;
+}
+#imagemTartaruga2{
+    margin: 0 20px 20px 20px;
+     float: right; 
+}
+#imagemTartaruga3{
+    margin: 0 20px 20px 20px;
+     float: left; 
+}
+#link{
+    text-decoration: none;
+    color: white;
+}
+
+
+/*torres*/
+
+#tituloTorres{
+    margin-bottom: 30px;
+}
+#imagemTerres1{
+margin: 20px 20px 20px 0;
+float: left 
+}
+#imagemTerres2{
+margin: 20px 0 20px 20px;
+float: right;
+}

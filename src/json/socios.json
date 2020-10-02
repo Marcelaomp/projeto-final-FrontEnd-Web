@@ -1,0 +1,35 @@
+{
+    "socios":[
+    {
+        "id":1,
+        "nome":"Camila Amaral",
+        "foto":"imagens/quem-somos/camila.jpg",
+        "descricao":"Sócia fundadora da Teresópolis Adventure. Formada em Administração de empresas desde 2012 e estudante de Desenvolvimento de softwares. Apaixonada pela natureza e praticante de escalada esportiva desde 8 anos."
+    },
+    {
+        "id":2,
+        "nome":"Jonas de Moura",
+        "foto":"imagens/quem-somos/jonas.jpg",
+        "descricao":"Sócio cofundador da Teresópolis Adventure. Cursando Ciência da Computação, percebeu a necessidade de investimentos em turismo na cidade, com isso contribuiu com o desenvolvimento de ideias para a criação da Teresópolis Adventure."
+    },
+    {
+        "id":3,
+        "nome":"Marcela Pereira",
+        "foto":"imagens/quem-somos/marcela.jpg",
+        "descricao":"Sócia cofundadora da Teresópolis Adventure. Residente do programa de Software do Serratec e formada em Letras Português-Japonês. Interessou-se pela ideia de contribuir com o desenvolvimento turístico da cidade de Teresópolis e junto com o time da Teresópolis Adventure deu o primeiro passo para concretizar tal plano."
+    },
+    {
+        "id":4,
+        "nome":"Raphael Fernandes",
+        "foto":"imagens/quem-somos/rapha1.jpg",
+        "descricao":"Sócio cofundador da Teresópolis Adventure. Cursando Ciência da Computação. Interessou-se pela ideia da sócia fundadora, o que contribuiu para sua implementação."
+    },
+    {
+        "id":5,
+        "nome":"Raphael Medeiros",
+        "foto":"imagens/quem-somos/rapha.jpg",
+        "descricao":"Sócio da Teresópolis Adventure. Devido o interesse constante da população local, somado ao interesse do crescimento turístico da cidade, se uniu a equipe para desenvolver tecnologias na área."
+    }
+
+    ]   
+}

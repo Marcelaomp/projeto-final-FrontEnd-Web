@@ -1,0 +1,50 @@
+#botao_login{
+    font-size: large;
+    color: black;
+    background-color: orange;
+    border: solid 0px black ;
+    border-radius: 70PX;
+    height: 50px;
+    width: 50px;
+    text-decoration: none;
+}
+#campos{
+    width: 300px;
+    height: 300px;
+    top: 15px;
+    right: 20px;
+    border-radius: 15px;
+}
+
+#nLogin{
+    border:  black;
+}
+#botao_login:focus {
+    box-shadow: 0 0 0 0.2rem orange !important;
+}
+
+#botaoEnviar{
+    padding-left: 114px;
+    padding-right: 114px;
+    background-color: orange;
+    border-radius: 5px;
+    border-color: white;
+}
+#formHorizontalEmail{
+    margin-left: 3px;
+    width: 265px;
+}
+#formHorizontalPassword{
+    margin-left: 3px;
+    width: 265px;
+}
+
+.focusPainel:focus{
+    box-shadow: 0 0 0 0.2rem rgba(255, 179, 0, 20) !important;
+    border: rgba(255, 179, 0, 20) !important;
+}
+
+input:-webkit-autofill{
+    -webkit-box-shadow: 0 0 0px 100px rgba(255, 179, 10, 0.7) inset;
+    transition: background-color 5000s ease-in-out 0s;
+  }

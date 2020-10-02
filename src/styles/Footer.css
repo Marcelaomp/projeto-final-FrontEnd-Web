@@ -1,0 +1,45 @@
+#footer{
+    margin-top: 70px;
+    background-color: orange;
+}
+
+.redes{
+    left: 100px;
+}
+
+.redes a{
+    margin: 30px;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    float: right;
+    margin: 20px;
+}
+.redes{
+    margin-right: 50px;
+}
+
+.contato {
+    list-style: none;
+    font-size: 16px;
+    text-align: left;
+    float: right;
+}
+
+.orgao{
+    margin-top: 10px;
+
+}
+
+.orgao p{
+    font-size:16px;
+    text-align: center;
+}
+
+.contato a{
+    color:black;
+}
+
+.logo{
+    margin-top: 15px;
+}

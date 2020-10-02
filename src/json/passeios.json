@@ -1,0 +1,52 @@
+{
+"passeios" : [ 
+    {
+            "id": 1,
+            "imagem": "imagens/pedra-tartaruga.jpg",
+            "alt": "Foto: Pedra da Tartaruga",
+            "titulo": "Pedra da Tartaruga", 
+            "preco": "R$ 300,00",
+            "saibaMais": "/pedradatartaruga"
+        },
+    {
+            "id": 2,
+            "imagem": "imagens/Torres.jpg",
+            "alt": "Foto: Torres de Bonsucesso",
+            "titulo": "Torres de Bonsucesso", 
+            "preco": "R$ 450,00",
+            "saibaMais": "/torres"
+        },
+    {
+            "id": 3,
+            "imagem": "imagens/cahoeira2.jpg",
+            "alt": "Foto: Cachoeira da Macumba",
+            "titulo": "Cachoeira da Macumba", 
+            "preco": "R$ 400,00",
+            "saibaMais": "/cachoeiradamacumba"
+        },
+    {
+            "id": 4,
+            "imagem": "imagens/Dedo.jpg",
+            "alt": "Foto: Dedo de Deus",
+            "titulo": "Dedo de Deus", 
+            "preco": "R$ 800,00",
+            "saibaMais": "/dedodedeus"
+        },
+    {
+            "id": 5,
+            "imagem": "imagens/escalavrado1.jpg",
+            "alt": "Foto: Escalavrado",
+            "titulo": "Escalavrado", 
+            "preco": "R$ 700,00",
+            "saibaMais": "/escalavrado"
+        },
+    {
+            "id": 6,
+            "imagem": "imagens/sino.jpg",
+            "alt": "Foto: Pedra do Sino",
+            "titulo": "Pedra do Sino", 
+            "preco": "R$ 600,00",
+            "saibaMais": "/pedradosino"
+        }
+    ]
+}
